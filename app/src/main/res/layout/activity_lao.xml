@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Lao">
+    <TextView
+        android:text="Lào (tiếng Lào: ລາວ, phát âm tiếng Lào: [láːw], Lao), tên chính thức là Cộng hoà Dân chủ Nhân dân Lào (tiếng Lào: ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ, Sathalanalat Paxathipatai Paxaxon Lao), là quốc gia nội lục có chủ quyền tại bán đảo Đông Dương, Đông Nam Á, phía tây bắc giáp với Myanmar và Trung Quốc, phía đông giáp với Việt Nam, phía đông nam giáp với Campuchia, phía tây và tây nam giáp với Thái Lan.\n\n
+
+Lào là nước cộng hoà xã hội chủ nghĩa độc đảng, theo chủ nghĩa Marx và do Đảng Nhân dân Cách mạng Lào cầm quyền. Thủ đô của Lào, đồng thời là thành phố lớn nhất, là Vientiane. Các thành thị lớn khác là Luang Prabang, Savannakhet, và Pakse. Đây là một quốc gia đa dân tộc, người Lào chiếm khoảng 60% dân số, họ chủ yếu cư trú tại vùng thấp và chiếm ưu thế về chính trị và văn hoá. Các dân tộc Môn-Khmer, H'Mông và dân tộc bản địa vùng cao khác chiếm khoảng 40% dân số và sống tại khu vực đồi núi."
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TextView>
+
+</LinearLayout>

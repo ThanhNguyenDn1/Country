@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+<LinearLayout
+
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="70dp">
+
+    <ImageView
+        android:id="@+id/vn"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/vietnam"></ImageView>
+    <ImageView
+        android:id="@+id/lao"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/lao"></ImageView>
+    <ImageView
+        android:id="@+id/japan"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/japan"></ImageView>
+    <ImageView
+        android:id="@+id/china"
+        android:layout_marginRight="10dp"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/china"></ImageView>
+
+</LinearLayout>
+
+
+</LinearLayout>

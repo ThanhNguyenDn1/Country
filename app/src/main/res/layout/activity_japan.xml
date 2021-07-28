@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Japan">
+    <TextView
+        android:layout_margin="10dp"
+        android:text="Nhật Bản(日本, Nippon [ɲippoꜜɴ] (About this soundlisten) hoặc Nihon [ɲihoꜜɴ] About this sound(listen)) là một quốc đảo ở Đông Á,nằm ở phía tây bắc Thái Bình Dương. Nó giáp với phía tây bởi Biển Nhật Bản, và kéo dài từ biển Okhotsk ở phía bắc về phía biển Hoa Đông và Đài Loan ở phía nam. Là một phần của Vành đai Lửa,Nhật Bản trải dài trên một quần đảo gồm 6852 hòn đảo với diện tích 377.975 kilômét vuông (145.937 dặm vuông Anh); năm hòn đảo chính là Hokkaido, Honshu, Shikoku, Kyushuvà Okinawa. Tokyo là thủ đô và thành phố lớn nhất của Nhật Bản; các thành phố lớn khác baogồm Yokohama , Osaka, Nagoya, Sapporo, Fukuoka, Kobevà Kyoto.\n\n
+
+Nhật Bản là quốc gia đông dân thứ mười một trên thế giới, cũng như là một trong những quốc gia đông dân nhất và đô thị hóa. Khoảng 3/4 địa hình của đất nước là miền núi, tập trung dân số 125,36 triệu người vào các đồng bằng ven biển hẹp. Nhật Bản được chia thành 47 tỉnh hành chính và tám khu vực truyền thống. Khu vực Greater Tokyo là khu vực đô thị đông dân nhất thế giới, với hơn 37,4 triệu cư dân."
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></TextView>
+
+</LinearLayout>
